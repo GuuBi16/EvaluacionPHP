@@ -7,7 +7,7 @@
         </div>
         <ul class="app-breadcrumb breadcrumb">
             <li class="breadcrumb-item"><i class="fa fa-home fa-lg"></i></li>
-            <li class="breadcrumb-item" style="text-align: center;"><a href="#">Evaluación de Conocimientos PHP - VINCO ORBIS</a></li>
+            <li class="breadcrumb-item" style="text-align: center;"><a href="<?= base_url(); ?>/dashboard">Evaluación de Conocimientos PHP - VINCO ORBIS</a></li>
         </ul>
     </div>
     <div class="row">
